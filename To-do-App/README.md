@@ -31,7 +31,7 @@ This Project was mainly aimed at putting into practice knowledge TypeScript, Tai
 To run on your local machine: 
 
 ``` 
-git clone https://github.com/aridsm/tasks-app.git
+git clone https://github.com/debadityasingh8972/Mini-projects/tree/main/To-do-App
 cd tasks-app
 npm install
 npm start
